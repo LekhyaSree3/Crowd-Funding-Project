@@ -1,7 +1,7 @@
 # *Crowdfunding Analytics Project*
 
 ## *Overview*
-Analyzed crowdfunding campaign data to understand funding patterns, project performance, and key success factors using *Excel, SQL, Tableau, and Power BI*.
+Analyzed crowdfunding campaign data to understand funding patterns, project performance and key success factors using *Excel, SQL, Tableau and Power BI*.
 
 ## *Objectives*
 * Analyze funding trends and campaign performance  
